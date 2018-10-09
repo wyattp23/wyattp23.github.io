@@ -1,5 +1,14 @@
+body{
+	background-color: rgb(39,53,67);
+}
+
+h1{
+	color: rgb(190,235,255);
+	text-align: center;
+}
+
 li {
     font-size: 18px;
-    color: rgb(15, 136, 4);
+    color: rgb(170, 255, 198);
     font-weight: bold;
 }
