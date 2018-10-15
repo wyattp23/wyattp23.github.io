@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\styles"
+    "\\CS_Data_Structures",
+    "\\CS_Data_Structures\\styles",
+    "\\CS_Data_Structures\\weeks"
   ],
-  "SelectedNode": "\\styles\\topStyles.css",
+  "SelectedNode": "\\CS_Data_Structures\\weeks\\week01.html",
   "PreviewInSolutionExplorer": false
 }
